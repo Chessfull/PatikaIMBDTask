@@ -1,6 +1,6 @@
 ## :notebook: This is the task about 'Generic Lists' in Patika+ Bootcamp. :notebook: C#
 
-## :flashlight: Features :flashlight:
+### :flashlight: Features :flashlight:
 :key: **Add Movies**: Input movie names and IMDb scores.
 :key: **Display Movies**: Show all movies in the list.
 :key: **Filter by IMDb Score**: Show movies within a specific score range.
@@ -15,7 +15,8 @@
 
 :mag: At the end, display the following -> All movies in the list, Movies with IMDb scores between 4 and 9, Movies starting with the letter 'A' and their IMDb scores.
 
-Contact Information
+### :incoming_envelope: Contact Information :incoming_envelope:
+
 For any questions or further information, please don't hesitate to reach out to me :pray:
 
 Email: merttopcu.dev@gmail.com

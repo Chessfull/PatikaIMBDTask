@@ -1,4 +1,4 @@
-## :notebook: This is the task about 'Generic Lists' in Patika+ Bootcamp. :notebook: C#
+## This is the task about 'Generic Lists' in Patika+ Bootcamp. :notebook: C#
 
 ### Features 
 
